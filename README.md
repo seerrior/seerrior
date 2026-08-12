@@ -4,5 +4,5 @@
 <h2>Low-Level &amp; Systems Engineering</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,zig,go,cs,dotnet,wasm,bash,powershell,windows,linux,ubuntu,debian,arch,bsd,kali,mint,nix,plan9,cmake,clion,visualstudio,vscode,vscodium,neovim,vim,emacs,sublime,git,github,githubactions,gitlab,docker,kubernetes,terraform,ansible,nginx,qt,gtk,opencv,arduino,raspberrypi,autocad,matlab,octave,freecad,unity,unreal,blender,androidstudio,java,kotlin,lua,perl,fortran,haskell,nim,ocaml,scala,sqlite,postgres,mysql,mongodb,redis,elasticsearch,postman,graphql,regex,jenkins,prometheus,grafana&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,zig,go,cs,dotnet,wasm,bash,powershell,windows,linux,ubuntu,debian,arch,bsd,kali,mint,nix,plan9,cmake,clion,visualstudio,vscode,vscodium,neovim,vim,emacs,sublime,git,github,githubactions,gitlab,docker,kubernetes,/>
 </p>
